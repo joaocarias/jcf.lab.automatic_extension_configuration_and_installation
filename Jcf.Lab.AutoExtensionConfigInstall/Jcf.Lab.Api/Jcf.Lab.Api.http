@@ -1,6 +1,6 @@
-@Jcf.Lab.Api_HostAddress = http://localhost:5250
+@Jcf.Lab.Api_HostAddress = http://localhost:8585
 
-GET {{Jcf.Lab.Api_HostAddress}}/weatherforecast/
+GET {{Jcf.Lab.Api_HostAddress}}/api/urlextractor/chrome
 Accept: application/json
 
 ###
