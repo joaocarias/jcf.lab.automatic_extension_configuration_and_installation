@@ -1,0 +1,1 @@
+# jcf.lab.automatic_extension_configuration_and_installation
